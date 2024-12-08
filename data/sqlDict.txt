@@ -1,0 +1,20 @@
+Query:A command or request used to retrieve data from one or more tables in a database.
+Primary Key:A unique identifier for each row in a table, which ensures each record is unique and easily searchable.
+Foreign Key:A field in one table that links to the primary key of another table, establishing a relationship between the tables.
+Join:A SQL operation that combines records from two or more tables based on a related column, often used to pull combined information.
+Index:A database structure that improves the speed of data retrieval operations by creating a sorted reference for fast searching.
+Subquery:A query nested inside another query, allowing for more complex retrieval and data manipulation.
+Database:An organized collection of data stored and accessed electronically.
+Aggregate Functions:Functions that perform a calculation on a set of values, such as SUM, AVG, MAX, MIN, and COUNT.
+Alias:A temporary name assigned to a table or column in a query for readability.
+Trigger:A set of actions automatically executed in response to certain events on a table, such as insert, update, or delete.
+Transaction:A sequence of database operations that is treated as a single unit, typically using BEGIN, COMMIT, and ROLLBACK.
+Constraint:A rule enforced on data in a table, such as PRIMARY KEY, FOREIGN KEY, UNIQUE, NOT NULL, and CHECK.
+Schema:The structure of a database, including tables, relationships, and constraints.
+Auto Increment:A feature that automatically generates a unique integer for each new row in a table, often used with primary keys.
+Procedure:A stored set of SQL commands that performs a specific task, often taking input and returning results.
+Union:A SQL operator that combines the result sets of two or more SELECT statements into a single result set, removing duplicates unless UNION ALL is used.
+Temporary Table:A table created temporarily during a session or transaction, used for storing intermediate results.
+Null:A special marker in SQL indicating that a value is missing or undefined, distinct from zero or an empty string.
+Commit:A SQL command that saves all changes made during a transaction, making them permanent.
+Tuple:An ordered collection of values that come from a defined sequence of sets.

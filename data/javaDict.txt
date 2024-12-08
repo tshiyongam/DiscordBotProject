@@ -1,0 +1,20 @@
+Class:A blueprint for creating objects, defining the attributes (fields) and behaviors (methods) that the objects created from the class can have.
+Object:An instance of a class, representing a concrete entity with properties and behavior.
+Interface:An abstract type used to specify a set of methods that a class must implement, supporting abstraction and polymorphism.
+Encapsulation:A principle of restricting access to an object’s data by keeping it private and exposing only what’s necessary.
+Inheritance:A mechanism where one class acquires properties (fields) and behaviors (methods) of another class, enabling code reuse.
+Polymorphism:The ability of a method, interface, or class to take many forms, allowing for flexibility and reusability.
+Constructor:A special method in a class that is called when an object is instantiated, used to initialize the object’s state.
+JVM:A virtual environment that interprets Java bytecode, enabling Java's platform independence.
+Exception:A technique for handling runtime errors, using try, catch, and finally blocks.
+Collection:A framework that provides an architecture to store and manipulate a group of objects, such as lists, sets, and maps.
+Access Modifiers:Keywords (public, private, protected) that define class, method, and variable visibility.
+Abstract:A class that cannot be instantiated and is used to define common behavior for subclasses.
+Final:A keyword that makes variables constant, prevents method overriding, or inheritance.
+Static:A keyword that makes variables and methods belong to the class rather than instances of the class.
+Array: A fixed-size container holding values of a single type.
+Enum:A special data type that defines a fixed set of constants, such as days of the week or directions.
+ArrayList:A resizable array implementation of the List interface, part of the Java Collections Framework.
+Iterator:An interface used to traverse elements in a collection sequentially.
+Compiler:A tool that translates Java source code (.java files) into bytecode (.class files).
+NullPointerException: A runtime exception thrown when an application attempts to use null in an illegal way, such as calling a method on it.

@@ -1,0 +1,20 @@
+Variable:A named location used to store data in memory that can be changed during program execution.
+Function:A block of reusable code that performs a specific task and can be called with arguments.
+List:An ordered, mutable collection of elements in Python, defined with square brackets [].
+Tuple:An ordered, immutable collection of elements, defined with parentheses ().
+Dictionary:A collection of key-value pairs, defined with curly braces {}, where keys are unique.
+Mutable:Objects that can be modified after creation (e.g., lists, dictionaries).
+Immutable:Objects that cannot be changed once created (e.g., strings, tuples).
+Docstring:A string literal used to document a module, function, class, or method, often in triple quotes """.
+Polymorphism:The ability to present the same interface for different underlying forms (e.g., different objects responding to the same method).
+Encapsulation:The concept of restricting access to certain attributes and methods of an object.
+Inheritance:A feature that lets a class inherit properties and methods from another class.
+Abstraction:The process of hiding the complex implementation details and showing only the necessary features of an object.
+Exception:An error that occurs during code execution, which can be handled with try and except.
+Loop:A way to repeat code multiple times (e.g., for and while loops).
+Argument:A value passed to a function when it is called.
+Parameter:A variable used in a function definition to represent an argument passed to the function.
+Docstring:A string literal used to document a function, class, or module, enclosed in triple quotes.
+Comment:A note in your code for humans to read, starting with #. It doesn't affect the program.
+Index:The position of an item in a list or string, starting at 0.
+Nested:A term used to describe when a list, loop, or function is contained within another, e.g., a list inside a list.
