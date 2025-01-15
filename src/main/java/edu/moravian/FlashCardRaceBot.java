@@ -48,7 +48,7 @@ public class FlashCardRaceBot
                 if (event.getAuthor().isBot())
                     return;
 
-                if (!event.getChannel().getName().equals("mael-channel"))
+                if (!event.getChannel().getName().equals("bot-commands"))
                     return;
 
                 String username = event.getAuthor().getName();
